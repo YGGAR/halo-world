@@ -1,2 +1,2 @@
 # halo-world
-this says halo world
+this says hello world
